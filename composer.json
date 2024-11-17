@@ -1,0 +1,17 @@
+{
+    "name": "shub/public",
+    "autoload": {
+        "psr-4": {
+            "Shub\\Public\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shubham Kumar Bansal",
+            "email": "shub@shubkb.com"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^15.18"
+    }
+}
